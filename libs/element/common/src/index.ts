@@ -1,5 +1,6 @@
-/* --- Components --- */
-export * from './lib/modules/components/cards/shadow/module';
+export * from './lib/modules/components/Navbar/module';
+export * from './lib/modules/components/Sidebar/module';
+export * from './lib/modules/components/Card/module';
 
-/* --- Pipes --- */
-export * from './lib/modules/pipes/module';
+export * from './lib/modules/components/pipes/module';
+
